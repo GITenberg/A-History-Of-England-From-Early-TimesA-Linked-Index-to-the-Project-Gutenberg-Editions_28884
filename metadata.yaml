@@ -1,0 +1,51 @@
+_repo: A-History-Of-England-From-Early-TimesA-Linked-Index-to-the-Project-Gutenberg-Editions_28884
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28884-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Smollett, T. (Tobias)
+    aliases:
+    - Smollett, Tobias George
+    - Smollet, T. (Tobias)
+    birthdate: 1721
+    deathdate: 1771
+    gutenberg_agent_id: '838'
+    url: http://www.gutenberg.org/2009/agents/838
+    wikipedia: http://en.wikipedia.org/wiki/Tobias_Smollett
+  - agent_name: Farr, Edward
+    gutenberg_agent_id: '8572'
+    url: http://www.gutenberg.org/2009/agents/8572
+  - agent_name: Nolan, E. H. (Edward Henry)
+    alias: Nolan, Edward Henry
+    gutenberg_agent_id: '8573'
+    url: http://www.gutenberg.org/2009/agents/8573
+  - agent_name: Hume, David
+    birthdate: 1711
+    deathdate: 1776
+    gutenberg_agent_id: '1440'
+    url: http://www.gutenberg.org/2009/agents/1440
+    wikipedia: http://en.wikipedia.org/wiki/David_Hume
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2009-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28884'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indexes'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History'
+title: 'A History Of England From Early Times
+
+  A Linked Index to the Project Gutenberg Editions'
+url: http://www.gutenberg.org/ebooks/28884
