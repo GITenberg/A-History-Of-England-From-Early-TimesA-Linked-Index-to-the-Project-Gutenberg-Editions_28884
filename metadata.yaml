@@ -33,6 +33,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28884#A-History-Of-England-From-Early-TimesA-Linked-Index-to-the-Project-Gutenberg-Editions
 gutenberg_issued: '2009-05-19'
 gutenberg_type: Text
 identifiers:
